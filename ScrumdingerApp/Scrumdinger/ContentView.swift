@@ -29,6 +29,9 @@ struct ContentView: View {
                         .padding(.leading)
                 }
             }
+            .accessibilityElement(children: .ignore)
+            .accessibilityLabel("Time remaining")
+            .accessibilityLabel("1 minute")
             Circle()
             HStack {
                 Label("Speaker 1 of 3", systemImage: "circle").labelStyle(TitleOnlyLabelStyle())
@@ -36,6 +39,7 @@ struct ContentView: View {
                 Button(action: {}) {
                     Image(systemName: "forward.fill")
                 }
+                .accessibilityLabel("Next speaker")
             }
         }
         .padding()
