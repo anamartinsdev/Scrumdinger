@@ -63,9 +63,9 @@
 				A71DBA3F2918829200FF547B /* ScrumdingerApp.swift */,
 				A71DBA522919B60C00FF547B /* CardView.swift */,
 				A71DBA412918829200FF547B /* ContentView.swift */,
+				A71DBA542919C5FA00FF547B /* TrailingIconLabelStyle.swift */,
 				A71DBA432918829300FF547B /* Assets.xcassets */,
 				A71DBA452918829300FF547B /* Preview Content */,
-				A71DBA542919C5FA00FF547B /* TrailingIconLabelStyle.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
