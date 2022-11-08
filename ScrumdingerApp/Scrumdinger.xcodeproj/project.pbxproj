@@ -15,6 +15,7 @@
 		A71DBA512919B48E00FF547B /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A71DBA502919B48E00FF547B /* DailyScrum.swift */; };
 		A71DBA532919B60C00FF547B /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A71DBA522919B60C00FF547B /* CardView.swift */; };
 		A71DBA552919C5FA00FF547B /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = A71DBA542919C5FA00FF547B /* TrailingIconLabelStyle.swift */; };
+		A71DBA572919DF2000FF547B /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A71DBA562919DF2000FF547B /* ScrumsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		A71DBA502919B48E00FF547B /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		A71DBA522919B60C00FF547B /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		A71DBA542919C5FA00FF547B /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
+		A71DBA562919DF2000FF547B /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				A71DBA3F2918829200FF547B /* ScrumdingerApp.swift */,
 				A71DBA522919B60C00FF547B /* CardView.swift */,
 				A71DBA412918829200FF547B /* ContentView.swift */,
+				A71DBA562919DF2000FF547B /* ScrumsView.swift */,
 				A71DBA542919C5FA00FF547B /* TrailingIconLabelStyle.swift */,
 				A71DBA432918829300FF547B /* Assets.xcassets */,
 				A71DBA452918829300FF547B /* Preview Content */,
@@ -160,6 +163,7 @@
 				A71DBA512919B48E00FF547B /* DailyScrum.swift in Sources */,
 				A71DBA552919C5FA00FF547B /* TrailingIconLabelStyle.swift in Sources */,
 				A71DBA4F2919B18D00FF547B /* Theme.swift in Sources */,
+				A71DBA572919DF2000FF547B /* ScrumsView.swift in Sources */,
 				A71DBA422918829200FF547B /* ContentView.swift in Sources */,
 				A71DBA402918829200FF547B /* ScrumdingerApp.swift in Sources */,
 				A71DBA532919B60C00FF547B /* CardView.swift in Sources */,
